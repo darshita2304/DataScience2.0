@@ -1,0 +1,310 @@
+2023-01-22 16:19:53,881 INFO Searching..
+2023-01-22 16:19:53,881 INFO Succesful search
+2023-01-22 16:19:54,104 INFO this is start of add_key_values_fn 
+2023-01-22 16:19:54,105 INFO inside try block of add_key_values_fn 
+2023-01-22 16:19:54,273 INFO this is start of extract fn
+2023-01-22 16:19:54,273 INFO inside try block of extract fn
+2023-01-22 16:19:54,274 INFO this is start of extract fn
+2023-01-22 16:19:54,275 INFO inside try block of extract fn
+2023-01-22 16:19:54,275 ERROR there is some issue with extract fn
+2023-01-22 16:19:54,275 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:19:54,275 INFO this is start of extract fn
+2023-01-22 16:19:54,275 INFO inside try block of extract fn
+2023-01-22 16:19:54,275 INFO this is start of extract fn
+2023-01-22 16:19:54,275 INFO inside try block of extract fn
+2023-01-22 16:19:54,275 ERROR there is some issue with extract fn
+2023-01-22 16:19:54,275 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:20:29,659 INFO Searching..
+2023-01-22 16:20:29,659 INFO Succesful search
+2023-01-22 16:20:29,804 INFO this is start of add_key_values_fn 
+2023-01-22 16:20:29,804 INFO inside try block of add_key_values_fn 
+2023-01-22 16:20:29,867 INFO this is start of extract fn
+2023-01-22 16:20:29,868 INFO inside try block of extract fn
+2023-01-22 16:20:29,868 INFO this is start of extract fn
+2023-01-22 16:20:29,868 INFO inside try block of extract fn
+2023-01-22 16:20:29,869 ERROR there is some issue with extract fn
+2023-01-22 16:20:29,869 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:20:29,869 INFO this is start of extract fn
+2023-01-22 16:20:29,869 INFO inside try block of extract fn
+2023-01-22 16:20:29,869 INFO this is start of extract fn
+2023-01-22 16:20:29,869 INFO inside try block of extract fn
+2023-01-22 16:20:29,869 ERROR there is some issue with extract fn
+2023-01-22 16:20:29,869 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:21:10,835 INFO Searching..
+2023-01-22 16:21:10,836 INFO Succesful search
+2023-01-22 16:21:10,946 INFO this is start of add_key_values_fn 
+2023-01-22 16:21:10,947 INFO inside try block of add_key_values_fn 
+2023-01-22 16:21:11,024 INFO this is start of extract fn
+2023-01-22 16:21:11,025 INFO inside try block of extract fn
+2023-01-22 16:21:11,025 INFO this is start of extract fn
+2023-01-22 16:21:11,025 INFO inside try block of extract fn
+2023-01-22 16:21:11,025 ERROR there is some issue with extract fn
+2023-01-22 16:21:11,025 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:21:11,026 INFO this is start of extract fn
+2023-01-22 16:21:11,026 INFO inside try block of extract fn
+2023-01-22 16:21:11,026 INFO this is start of extract fn
+2023-01-22 16:21:11,026 INFO inside try block of extract fn
+2023-01-22 16:21:11,026 ERROR there is some issue with extract fn
+2023-01-22 16:21:11,026 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:32:46,345 INFO Searching..
+2023-01-22 16:32:46,348 INFO Succesful search
+2023-01-22 16:32:46,515 INFO this is start of add_key_values_fn 
+2023-01-22 16:32:46,516 INFO inside try block of add_key_values_fn 
+2023-01-22 16:32:46,604 INFO this is start of extract fn
+2023-01-22 16:32:46,604 INFO inside try block of extract fn
+2023-01-22 16:32:46,607 INFO this is start of extract fn
+2023-01-22 16:32:46,607 INFO inside try block of extract fn
+2023-01-22 16:32:46,608 ERROR there is some issue with extract fn
+2023-01-22 16:32:46,608 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:32:46,609 INFO this is start of extract fn
+2023-01-22 16:32:46,609 INFO inside try block of extract fn
+2023-01-22 16:32:46,609 INFO this is start of extract fn
+2023-01-22 16:32:46,609 INFO inside try block of extract fn
+2023-01-22 16:32:46,609 ERROR there is some issue with extract fn
+2023-01-22 16:32:46,609 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:33:16,588 INFO Searching..
+2023-01-22 16:33:16,588 INFO Succesful search
+2023-01-22 16:33:16,760 INFO this is start of add_key_values_fn 
+2023-01-22 16:33:16,761 INFO inside try block of add_key_values_fn 
+2023-01-22 16:33:16,869 INFO this is start of extract fn
+2023-01-22 16:33:16,869 INFO inside try block of extract fn
+2023-01-22 16:33:16,870 INFO this is start of extract fn
+2023-01-22 16:33:16,871 INFO inside try block of extract fn
+2023-01-22 16:33:16,871 ERROR there is some issue with extract fn
+2023-01-22 16:33:16,871 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:33:16,871 INFO this is start of extract fn
+2023-01-22 16:33:16,871 INFO inside try block of extract fn
+2023-01-22 16:33:16,871 INFO this is start of extract fn
+2023-01-22 16:33:16,871 INFO inside try block of extract fn
+2023-01-22 16:33:16,872 ERROR there is some issue with extract fn
+2023-01-22 16:33:16,872 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:33:39,236 INFO Searching..
+2023-01-22 16:33:39,236 INFO Succesful search
+2023-01-22 16:33:39,437 INFO this is start of add_key_values_fn 
+2023-01-22 16:33:39,438 INFO inside try block of add_key_values_fn 
+2023-01-22 16:33:39,542 INFO this is start of extract fn
+2023-01-22 16:33:39,543 INFO inside try block of extract fn
+2023-01-22 16:33:39,544 INFO this is start of extract fn
+2023-01-22 16:33:39,545 INFO inside try block of extract fn
+2023-01-22 16:33:39,545 ERROR there is some issue with extract fn
+2023-01-22 16:33:39,546 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:33:39,548 INFO this is start of extract fn
+2023-01-22 16:33:39,549 INFO inside try block of extract fn
+2023-01-22 16:33:39,550 INFO this is start of extract fn
+2023-01-22 16:33:39,550 INFO inside try block of extract fn
+2023-01-22 16:33:39,550 ERROR there is some issue with extract fn
+2023-01-22 16:33:39,550 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:33:48,235 INFO Searching..
+2023-01-22 16:33:48,235 INFO Succesful search
+2023-01-22 16:33:48,357 INFO this is start of add_key_values_fn 
+2023-01-22 16:33:48,357 INFO inside try block of add_key_values_fn 
+2023-01-22 16:36:54,561 INFO CONNECTING TO DATABASE    
+2023-01-22 16:36:54,877 INFO CREATING DB IF NOT EXIST
+2023-01-22 16:36:54,877 INFO CREATING TABLE IF NOT EXIST
+2023-01-22 16:36:55,124 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,124 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,124 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,134 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:36:55,253 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,253 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,253 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,258 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:36:55,392 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,392 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,392 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,396 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:36:55,684 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:36:55,686 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:36:55,686 DEBUG Verifying response
+2023-01-22 16:36:55,686 DEBUG Responder is issuer
+2023-01-22 16:36:55,687 DEBUG Caching OCSP response.
+2023-01-22 16:36:55,687 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:36:55,692 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:36:55,693 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:36:55,693 DEBUG Verifying response
+2023-01-22 16:36:55,693 DEBUG Responder is issuer
+2023-01-22 16:36:55,694 DEBUG Caching OCSP response.
+2023-01-22 16:36:55,695 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:36:55,773 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,774 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,774 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,774 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,774 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,774 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,774 DEBUG Using cached OCSP response.
+2023-01-22 16:36:55,775 DEBUG Using cached OCSP response.
+2023-01-22 16:36:55,775 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:36:55,775 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:36:55,783 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:36:55,784 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:36:55,784 DEBUG Verifying response
+2023-01-22 16:36:55,784 DEBUG Responder is issuer
+2023-01-22 16:36:55,784 DEBUG Caching OCSP response.
+2023-01-22 16:36:55,784 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:36:55,858 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:36:55,858 DEBUG Requesting OCSP data
+2023-01-22 16:36:55,858 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:36:55,858 DEBUG Using cached OCSP response.
+2023-01-22 16:36:55,858 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:15,047 INFO Searching..
+2023-01-22 16:41:15,052 INFO Succesful search
+2023-01-22 16:41:15,289 INFO this is start of add_key_values_fn 
+2023-01-22 16:41:15,290 INFO inside try block of add_key_values_fn 
+2023-01-22 16:41:15,436 INFO this is start of extract fn
+2023-01-22 16:41:15,436 INFO inside try block of extract fn
+2023-01-22 16:41:15,437 INFO this is start of extract fn
+2023-01-22 16:41:15,439 INFO inside try block of extract fn
+2023-01-22 16:41:15,440 ERROR there is some issue with extract fn
+2023-01-22 16:41:15,441 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:41:15,442 INFO this is start of extract fn
+2023-01-22 16:41:15,442 INFO inside try block of extract fn
+2023-01-22 16:41:15,442 INFO this is start of extract fn
+2023-01-22 16:41:15,442 INFO inside try block of extract fn
+2023-01-22 16:41:15,442 ERROR there is some issue with extract fn
+2023-01-22 16:41:15,442 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:41:19,093 INFO CONNECTING TO DATABASE
+2023-01-22 16:41:19,385 INFO CREATING DB IF NOT EXIST
+2023-01-22 16:41:19,385 INFO CREATING TABLE IF NOT EXIST
+2023-01-22 16:41:19,654 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:19,654 DEBUG Requesting OCSP data
+2023-01-22 16:41:19,654 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:19,674 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:41:19,736 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:19,736 DEBUG Requesting OCSP data
+2023-01-22 16:41:19,736 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:19,739 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:41:19,838 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:19,838 DEBUG Requesting OCSP data
+2023-01-22 16:41:19,838 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:19,840 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:41:19,891 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:41:19,897 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:41:19,902 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:41:19,903 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:41:19,904 DEBUG Verifying response
+2023-01-22 16:41:19,904 DEBUG Verifying response
+2023-01-22 16:41:19,904 DEBUG Responder is issuer
+2023-01-22 16:41:19,905 DEBUG Responder is issuer
+2023-01-22 16:41:19,907 DEBUG Caching OCSP response.
+2023-01-22 16:41:19,908 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:19,908 DEBUG Caching OCSP response.
+2023-01-22 16:41:19,908 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:19,950 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:41:19,956 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:41:19,957 DEBUG Verifying response
+2023-01-22 16:41:19,958 DEBUG Responder is issuer
+2023-01-22 16:41:19,960 DEBUG Caching OCSP response.
+2023-01-22 16:41:19,961 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:20,026 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:20,026 DEBUG Requesting OCSP data
+2023-01-22 16:41:20,026 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:20,026 DEBUG Using cached OCSP response.
+2023-01-22 16:41:20,026 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:20,035 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:20,035 DEBUG Requesting OCSP data
+2023-01-22 16:41:20,035 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:20,035 DEBUG Using cached OCSP response.
+2023-01-22 16:41:20,035 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:41:20,057 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:41:20,057 DEBUG Requesting OCSP data
+2023-01-22 16:41:20,057 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:41:20,057 DEBUG Using cached OCSP response.
+2023-01-22 16:41:20,057 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:43:38,527 INFO Searching..
+2023-01-22 16:43:38,528 INFO Succesful search
+2023-01-22 16:43:38,686 INFO this is start of add_key_values_fn 
+2023-01-22 16:43:38,686 INFO inside try block of add_key_values_fn 
+2023-01-22 16:43:38,777 INFO this is start of extract fn
+2023-01-22 16:43:38,778 INFO inside try block of extract fn
+2023-01-22 16:43:38,778 INFO this is start of extract fn
+2023-01-22 16:43:38,778 INFO inside try block of extract fn
+2023-01-22 16:43:38,779 ERROR there is some issue with extract fn
+2023-01-22 16:43:38,779 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:43:38,780 INFO this is start of extract fn
+2023-01-22 16:43:38,780 INFO inside try block of extract fn
+2023-01-22 16:43:38,780 INFO this is start of extract fn
+2023-01-22 16:43:38,780 INFO inside try block of extract fn
+2023-01-22 16:43:38,780 ERROR there is some issue with extract fn
+2023-01-22 16:43:38,780 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:43:54,196 INFO Searching..
+2023-01-22 16:43:54,196 INFO Succesful search
+2023-01-22 16:43:54,577 INFO this is start of add_key_values_fn 
+2023-01-22 16:43:54,578 INFO inside try block of add_key_values_fn 
+2023-01-22 16:43:54,653 INFO this is start of extract fn
+2023-01-22 16:43:54,654 INFO inside try block of extract fn
+2023-01-22 16:43:54,656 INFO this is start of extract fn
+2023-01-22 16:43:54,656 INFO inside try block of extract fn
+2023-01-22 16:43:54,656 ERROR there is some issue with extract fn
+2023-01-22 16:43:54,656 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:43:54,656 INFO this is start of extract fn
+2023-01-22 16:43:54,656 INFO inside try block of extract fn
+2023-01-22 16:43:54,656 INFO this is start of extract fn
+2023-01-22 16:43:54,656 INFO inside try block of extract fn
+2023-01-22 16:43:54,656 ERROR there is some issue with extract fn
+2023-01-22 16:43:54,656 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:44:26,330 INFO Searching..
+2023-01-22 16:44:26,331 INFO Succesful search
+2023-01-22 16:44:26,590 INFO this is start of add_key_values_fn 
+2023-01-22 16:44:26,592 INFO inside try block of add_key_values_fn 
+2023-01-22 16:44:26,737 INFO this is start of extract fn
+2023-01-22 16:44:26,737 INFO inside try block of extract fn
+2023-01-22 16:44:26,738 INFO this is start of extract fn
+2023-01-22 16:44:26,738 INFO inside try block of extract fn
+2023-01-22 16:44:26,739 ERROR there is some issue with extract fn
+2023-01-22 16:44:26,739 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:44:26,739 INFO this is start of extract fn
+2023-01-22 16:44:26,739 INFO inside try block of extract fn
+2023-01-22 16:44:26,739 INFO this is start of extract fn
+2023-01-22 16:44:26,739 INFO inside try block of extract fn
+2023-01-22 16:44:26,739 ERROR there is some issue with extract fn
+2023-01-22 16:44:26,739 ERROR invalid literal for int() with base 10: ''
+2023-01-22 16:45:01,643 INFO CONNECTING TO DATABASE
+2023-01-22 16:45:01,867 INFO CREATING DB IF NOT EXIST
+2023-01-22 16:45:01,867 INFO CREATING TABLE IF NOT EXIST
+2023-01-22 16:45:02,089 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,090 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,090 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,102 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:45:02,284 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,284 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,285 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,287 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-01-22 16:45:02,363 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:45:02,366 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-01-22 16:45:02,368 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:45:02,369 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-01-22 16:45:02,369 DEBUG Verifying response
+2023-01-22 16:45:02,369 DEBUG Verifying response
+2023-01-22 16:45:02,370 DEBUG Responder is issuer
+2023-01-22 16:45:02,371 DEBUG Responder is issuer
+2023-01-22 16:45:02,372 DEBUG Caching OCSP response.
+2023-01-22 16:45:02,372 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:45:02,372 DEBUG Caching OCSP response.
+2023-01-22 16:45:02,373 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:45:02,459 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,459 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,460 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,460 DEBUG Using cached OCSP response.
+2023-01-22 16:45:02,460 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:45:02,502 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,503 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,503 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,503 DEBUG Using cached OCSP response.
+2023-01-22 16:45:02,503 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:45:02,660 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,660 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,660 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,661 DEBUG Using cached OCSP response.
+2023-01-22 16:45:02,661 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:45:02,747 DEBUG Peer did not staple an OCSP response
+2023-01-22 16:45:02,747 DEBUG Requesting OCSP data
+2023-01-22 16:45:02,747 DEBUG Trying http://r3.o.lencr.org
+2023-01-22 16:45:02,747 DEBUG Using cached OCSP response.
+2023-01-22 16:45:02,748 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-01-22 16:47:06,228 INFO this is a start of a write operation
+2023-01-22 16:47:06,232 INFO complete write operation
+2023-01-22 16:47:06,232 INFO this is a start of a write operation
+2023-01-22 16:47:06,234 INFO complete write operation
+2023-01-22 16:47:06,234 INFO this is a start of a read operation
+2023-01-22 16:47:06,234 INFO inside try block of read fn
+2023-01-22 16:47:06,235 INFO i m able to read the file
