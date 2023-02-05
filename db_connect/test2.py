@@ -6,10 +6,13 @@ mydb = mysql.connector.connect(
   user="abc",
   password="password"
 )
-print(mydb.is_connected())
+
 cur = mydb.cursor()
-cur.execute("show databases")
+
+#cur.execute("create database new_db")
+
+cur.execute("select *from new_db.tb1")
 
 for i in cur:
     print(i)
-
+    

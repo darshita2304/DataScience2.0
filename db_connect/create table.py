@@ -6,10 +6,13 @@ mydb = mysql.connector.connect(
   user="abc",
   password="password"
 )
-print(mydb.is_connected())
+
 cur = mydb.cursor()
-cur.execute("show databases")
 
-for i in cur:
-    print(i)
+#cur.execute("create database new_db")
 
+cur.execute("use new_db")
+
+cur.execute("create table students (studid int,firstname varchar(40), class int, mail_id varchar(50))")
+
+mydb.commit()
